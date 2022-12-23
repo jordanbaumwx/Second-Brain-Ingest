@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "dotenv": "^16.0.3",
+    "snoowrap": "^1.23.0",
     "twitter-api-sdk": "^1.2.1"
   }
 }
