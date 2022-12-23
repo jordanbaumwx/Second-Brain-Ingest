@@ -11,3 +11,6 @@ export const redditClientId = process.env.REDDIT_CLIENT_ID || '';
 export const redditClientSecret = process.env.REDDIT_CLIENT_SECRET || '';
 export const redditUsername = process.env.REDDIT_USERNAME || '';
 export const redditPassword = process.env.REDDIT_PASSWORD || '';
+
+// Readwise
+export const readwiseAccessToken = process.env.READWISE_TOKEN || '';
